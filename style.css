@@ -1,0 +1,24 @@
+body {
+	text-align: center;
+}
+
+.bookForm {
+	height: 40px;
+	background: #b2d732;
+	display: flex;
+	align-items: center;
+	width: 900px;
+	padding-left: 500px;
+}
+
+#bookContainer {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.bookBox {
+	height: 200px;
+	width: 300px;
+	background-color: #f4f9e1;
+}
